@@ -21,7 +21,7 @@ Create a cleaner and visually engaging landing page that:
 
 # Before vs After Analysis
 
-## Before (1nd Image – Existing Nike Website)
+## Before (1st Image – Existing Nike Website)
 
 ### Issues Identified:
 
@@ -39,7 +39,7 @@ Create a cleaner and visually engaging landing page that:
 
 ---
 
-## After (2st Image – Redesigned Landing Page)
+## After (2nd Image – Redesigned Landing Page)
 
 ### Improvements Made:
 
